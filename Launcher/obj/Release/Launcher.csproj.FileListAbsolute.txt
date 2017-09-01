@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\Launcher.exe.config
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\Launcher.exe
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\Launcher.pdb
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\IotaApi.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\RestSharp.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\IotaApi.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Release\RestSharp.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Release\Launcher.exe
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Release\Launcher.pdb

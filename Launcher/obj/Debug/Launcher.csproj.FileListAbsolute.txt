@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Launcher.exe
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\IotaApi.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\RestSharp.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\IotaApi.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\RestSharp.xml
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Debug\Launcher.exe
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\obj\Debug\Launcher.pdb
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Lib.dll
+C:\Users\Daniel\source\repos\SeedChecker\Launcher\bin\Debug\Lib.pdb
